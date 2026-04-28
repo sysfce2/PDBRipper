@@ -1,0 +1,24 @@
+[submodule "Formats"]
+	path = Formats
+	url = https://github.com/horsicq/Formats
+[submodule "XAboutWidget"]
+	path = XAboutWidget
+	url = https://github.com/horsicq/XAboutWidget
+[submodule "XGithub"]
+	path = XGithub
+	url = https://github.com/horsicq/XGithub
+[submodule "XOptions"]
+	path = XOptions
+	url = https://github.com/horsicq/XOptions
+[submodule "XShortcuts"]
+	path = XShortcuts
+	url = https://github.com/horsicq/XShortcuts
+[submodule "XUpdate"]
+	path = XUpdate
+	url = https://github.com/horsicq/XUpdate
+[submodule "XWinPDB"]
+	path = XWinPDB
+	url = https://github.com/horsicq/XWinPDB
+[submodule "build_tools"]
+	path = build_tools
+	url = https://github.com/horsicq/build_tools
